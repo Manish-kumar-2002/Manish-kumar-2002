@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/manish-kumar-82325a202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manish-kumar-82325a202" height="30" width="40" /></a>
 <a href="https://instagram.com/__manish__kashyap__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__manish__kashyap__" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/manish0307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="manish0307" height="30" width="40" /></a>
-<a href="https://www.threads.net/@__manish__kashyap__" target="blank"><img align="center" src="https://seeklogo.com/images/T/threads-by-instagram-logo-D796AF5E3A-seeklogo.com.png" alt="__manish__kashyap__" height="30" width="40" /></a>
+<a href="https://www.threads.net/@__manish__kashyap__" target="blank"><img align="center" src="https://seeklogo.com/images/T/threads-by-instagram-logo-D796AF5E3A-seeklogo.com.png" alt="__manish__kashyap__" height="30" width="40" style="object-fit: contain" /></a>
 </p>
 
 
