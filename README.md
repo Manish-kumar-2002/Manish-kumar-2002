@@ -1,6 +1,6 @@
 <img src="webDev.gif" alt="manish-kumar-2002" />
 <h1 align="center">Hi 👋, I'm Manish Kumar</h1>
-<h3 align="center">A Talented Third Year B.Tech student with a strong academic background with the ability to think through a problem coupled with the confidence to make ideas heard.I am currently looking for a internship opportunity that will allow me to work alongside an expert team of talented individual's .</h3>
+<h3 align="center">A Talented B.Tech student with a strong academic background with the ability to think through a problem coupled with the confidence to make ideas heard.I am currently looking for a internship opportunity that will allow me to work alongside an expert team of talented individual's .</h3>
 
 <img align="right" alt="coding" width="400" src="MY.png">
 
