@@ -21,10 +21,10 @@ jobs:
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
-          github_user_name: manish-kumar-2002
+          github_user_name: Manish-kumar-2002
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=%23ffffff&color_dots=%2313201f,%23164e4a,%230f766e,%2314b8a6,%235eead4
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%235eead4&color_dots=%230b1716,%23132f2c,%230f766e,%2314b8a6,%235eead4
 
       - name: Push Snake Animation
         uses: crazy-max/ghaction-github-pages@v4
